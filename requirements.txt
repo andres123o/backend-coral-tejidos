@@ -8,4 +8,4 @@ pydantic-settings==2.6.1
 alembic==1.13.2
 python-slugify==8.0.4
 supabase==2.31.0
-python-multipart==0.0.9
+python-multipart==0.0.31
